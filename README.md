@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emanoel de Oliveira</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center"> Hi 👋, I'm Emanoel de Oliveira</h1>
+<h3 align="center"> A software engineer developer(actually in Brazil)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiraemanoel&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiraemanoel" /> </p>
 
-- 🔭 I’m currently working on [Qsito](https://github.com/alfatektecnologia/mobiup/tree/main/Qsito)
+- 🔭 I’m currently working on  [Qsito](https://github.com/alfatektecnologia/mobiup/tree/main/Qsito)
 
-- 🌱 I’m currently learning **Next.js and Rust**
+- 🌱 I’m currently learning  **Next.js and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alfatektecnologia](https://github.com/alfatektecnologia)
 
@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Java, Kotlin, Flutter, Solidity, Cairo, and C#**
 
-- 📫 How to reach me **emanoel_oliveira@outlook.com**
+- 📫 How to reach me  **emanoel_oliveira@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/emanoel-oliveira-br](www.linkedin.com/in/emanoel-oliveira-br)
+- 📄 Know about my experiences  [www.linkedin.com/in/emanoel-oliveira-br](www.linkedin.com/in/emanoel-oliveira-br)
 
-- ⚡ Fun fact **I know I can learn everything I want.**
+- ⚡ Fun fact  **I know I can learn everything I want.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

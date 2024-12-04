@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Emanoel de Oliveira</h1>
-<h3 align="center"> A software engineer developer(actually in Brazil)</h3>
+<h3 align="center"> A software developer(actually in Brazil)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiraemanoel&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiraemanoel" /> </p>
 

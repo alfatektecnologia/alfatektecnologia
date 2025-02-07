@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiraemanoel&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiraemanoel" /> </p>
 
-- 🔭 I’m currently working on  [Qsito](https://github.com/alfatektecnologia/mobiup/tree/main/Qsito)
+- 🔭 I’m currently working on  [Stellar](https://github.com/alfatektecnologia/dojo-stellar)
 
 - 🌱 I’m currently learning  **Next.js and Rust**
 

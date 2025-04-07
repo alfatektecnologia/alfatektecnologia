@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiraemanoel&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiraemanoel" /> </p>
 
-- 🔭 I’m currently working on  [ChatPayGo]([https://github.com/alfatektecnologia/chatpay-go)])
+- 🔭 I’m currently working on  [ChatPayGo](https://github.com/alfatektecnologia/chatpay-go)
 
 - 🌱 I’m currently learning  **Next.js and Rust**
 

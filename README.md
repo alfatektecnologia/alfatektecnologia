@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveiraemanoel&label=Profile%20views&color=0e75b6&style=flat" alt="oliveiraemanoel" /> </p>
 
-- 🔭 I’m currently working on  [ChatPayGo](https://github.com/alfatektecnologia/chatpay-go)
+- 🔭 I’m currently working on this project [ChatPayGo](https://github.com/alfatektecnologia/chatpay-go)
 
-- 🌱 I’m currently learning  **Next.js and Rust**
+- 🌱 I’m currently improving my skill on  **Next.js and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alfatektecnologia](https://github.com/alfatektecnologia)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences  [www.linkedin.com/in/emanoel-oliveira-br](www.linkedin.com/in/emanoel-oliveira-br)
 
-- ⚡ Fun fact  **I know I can learn everything I want.**
+- ⚡ Fun fact  **Everything is possible to learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
